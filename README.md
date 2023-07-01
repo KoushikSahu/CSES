@@ -4,7 +4,7 @@ Solution to the CSES problemset implemented in rust
 
 ### Steps to run a program
 
-```
+```bash
 cargo build --bin <problem-name> # compiles the file
 cargo run --bin <problem-name> # runs the file
 ```
